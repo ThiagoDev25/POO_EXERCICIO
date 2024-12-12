@@ -1,0 +1,14 @@
+C:\Users\Thiago\Documents\Cursos\TI\Programação\.NET\projetos\POO_EXERCICIO\bin\Debug\net9.0\POO_EXERCICIO.exe
+C:\Users\Thiago\Documents\Cursos\TI\Programação\.NET\projetos\POO_EXERCICIO\bin\Debug\net9.0\POO_EXERCICIO.deps.json
+C:\Users\Thiago\Documents\Cursos\TI\Programação\.NET\projetos\POO_EXERCICIO\bin\Debug\net9.0\POO_EXERCICIO.runtimeconfig.json
+C:\Users\Thiago\Documents\Cursos\TI\Programação\.NET\projetos\POO_EXERCICIO\bin\Debug\net9.0\POO_EXERCICIO.dll
+C:\Users\Thiago\Documents\Cursos\TI\Programação\.NET\projetos\POO_EXERCICIO\bin\Debug\net9.0\POO_EXERCICIO.pdb
+C:\Users\Thiago\Documents\Cursos\TI\Programação\.NET\projetos\POO_EXERCICIO\obj\Debug\net9.0\POO_EXERCICIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Documents\Cursos\TI\Programação\.NET\projetos\POO_EXERCICIO\obj\Debug\net9.0\POO_EXERCICIO.AssemblyInfoInputs.cache
+C:\Users\Thiago\Documents\Cursos\TI\Programação\.NET\projetos\POO_EXERCICIO\obj\Debug\net9.0\POO_EXERCICIO.AssemblyInfo.cs
+C:\Users\Thiago\Documents\Cursos\TI\Programação\.NET\projetos\POO_EXERCICIO\obj\Debug\net9.0\POO_EXERCICIO.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\Cursos\TI\Programação\.NET\projetos\POO_EXERCICIO\obj\Debug\net9.0\POO_EXERCICIO.dll
+C:\Users\Thiago\Documents\Cursos\TI\Programação\.NET\projetos\POO_EXERCICIO\obj\Debug\net9.0\refint\POO_EXERCICIO.dll
+C:\Users\Thiago\Documents\Cursos\TI\Programação\.NET\projetos\POO_EXERCICIO\obj\Debug\net9.0\POO_EXERCICIO.pdb
+C:\Users\Thiago\Documents\Cursos\TI\Programação\.NET\projetos\POO_EXERCICIO\obj\Debug\net9.0\POO_EXERCICIO.genruntimeconfig.cache
+C:\Users\Thiago\Documents\Cursos\TI\Programação\.NET\projetos\POO_EXERCICIO\obj\Debug\net9.0\ref\POO_EXERCICIO.dll
