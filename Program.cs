@@ -7,10 +7,17 @@ namespace POO_EXERCICIO
     {
         static void Main (string[] args)
         {
-            Console.WriteLine("Hello World!");
-            var career = new Career();
-            career.Items.Add(new CareerItem());
-            Console.WriteLine(career.TotalCourses);
+            var articles = new List<Article>();
+            articles.Add(new Article("Artigo sobre OOP", "orientacao-objetos"));
+            articles.Add(new Article("Artigo sobre CSHARP", "orientacao-objetos"));
+            articles.Add(new Article("Artigo sobre ASPNET", "orientacao-objetos"));
+
+            foreach (var article in articles )
+            {
+                Console.WriteLine(article.Id);
+                Console.WriteLine(article.Title);
+                Console.WriteLine(article.Url);
+            }
         }
     }
 }

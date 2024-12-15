@@ -12,3 +12,4 @@ C:\Users\Thiago\Documents\Cursos\TI\Programação\.NET\projetos\POO_EXERCICIO\ob
 C:\Users\Thiago\Documents\Cursos\TI\Programação\.NET\projetos\POO_EXERCICIO\obj\Debug\net9.0\POO_EXERCICIO.pdb
 C:\Users\Thiago\Documents\Cursos\TI\Programação\.NET\projetos\POO_EXERCICIO\obj\Debug\net9.0\POO_EXERCICIO.genruntimeconfig.cache
 C:\Users\Thiago\Documents\Cursos\TI\Programação\.NET\projetos\POO_EXERCICIO\obj\Debug\net9.0\ref\POO_EXERCICIO.dll
+C:\Users\Thiago\Documents\Cursos\TI\Programação\.NET\projetos\POO_EXERCICIO\obj\Debug\net9.0\POO_EXERCICIO.sourcelink.json
