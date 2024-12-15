@@ -10,7 +10,7 @@ namespace POO_EXERCICIO.ContentContext
             Title = title;
             Url = url;
         }
-
+        
 
         public Guid Id { get; set; }
         public string Title { get; set; }
