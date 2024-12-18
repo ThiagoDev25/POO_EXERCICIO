@@ -1,7 +1,7 @@
 using System;
 using POO_EXERCICIO.NotificationContext;
 
-namespace POO_EXERCICIO.ContentContext
+namespace POO_EXERCICIO.SharedContext
 {
     public abstract class Base : Notifiable
     {

@@ -1,3 +1,6 @@
+using POO_EXERCICIO.NotificationContext;
+using POO_EXERCICIO.SharedContext;
+
 namespace POO_EXERCICIO.ContentContext
 {
     public class CareerItem : Base
@@ -5,7 +8,7 @@ namespace POO_EXERCICIO.ContentContext
         public CareerItem(int order, string title, string description, Course course)
         {
             if (course == null)
-                throw new System.Exception("O curso não pode ser nulo!");
+                AddNotification(new Notification("Course", "Curso Inválido!"));
             Order = order;
             Title = title;
             Description = description;

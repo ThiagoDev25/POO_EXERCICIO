@@ -1,4 +1,5 @@
 using System.Security.Cryptography.X509Certificates;
+using POO_EXERCICIO.SharedContext;
 
 namespace POO_EXERCICIO.ContentContext 
 {

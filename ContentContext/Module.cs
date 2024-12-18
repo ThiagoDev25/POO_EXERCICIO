@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using POO_EXERCICIO.SharedContext;
 
 namespace POO_EXERCICIO.ContentContext
 {

@@ -1,3 +1,5 @@
+using POO_EXERCICIO.SharedContext;
+
 namespace POO_EXERCICIO.ContentContext
 {
     public class Lecture : Base
