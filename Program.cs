@@ -2,6 +2,7 @@
 using System.Net.Http.Headers;
 using POO_EXERCICIO.ContentContext;
 using POO_EXERCICIO.NotificationContext;
+using POO_EXERCICIO.SubscriptionContext;
 
 // https://github.com/andrebaltieri/flunt   <----- pacote de código que faz o trabalho de notificação
 
@@ -57,6 +58,9 @@ namespace POO_EXERCICIO
                         Console.WriteLine($"{notification.Property} - {notification.Message}");
                     }
                 }
+                var payPalSubscription = new PayPalSubscription();
+                var student = new Student();
+                student.CreateSubscription(payPalSubscription);
             }
         }
     }
