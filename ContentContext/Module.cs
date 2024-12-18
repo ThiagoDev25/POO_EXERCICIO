@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 namespace POO_EXERCICIO.ContentContext
 {
-public class Module 
+public class Module : Base
     {
         public Module()
         {

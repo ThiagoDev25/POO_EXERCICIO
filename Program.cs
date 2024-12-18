@@ -28,6 +28,8 @@ namespace POO_EXERCICIO
             Courses.Add(courseCSHARP);
             Courses.Add(courseASPNET);
 
+        
+
             var careers = new List<Career>();
             var careerDOTNET = new Career("especialista em .NET", "especialista DEVOPS-DOTNET");
             var careerItem2 = new CareerItem(2, "Aprenda DOTNET", "", courseASPNET);

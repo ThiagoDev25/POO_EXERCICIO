@@ -1,3 +1,5 @@
+using POO_EXERCICIO.NotificationContext;
+
 namespace POO_EXERCICIO.ContentContext 
 {
     public class Article : Content 
